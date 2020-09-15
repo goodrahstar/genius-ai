@@ -1,0 +1,32 @@
+# Project information
+site_name: 'GeniusAI Labs'
+site_description: 'Official website for GeniusAI (OPC) private limited '
+site_author: 'Rahul Kumar'
+site_url: 'https://www.hellorahulk.com'
+
+
+
+# Repository
+repo_name: 'genius-ai'
+repo_url: 'https://github.com/goodrahstar/genius-ai/'
+
+# Copyright
+copyright: 'Copyright &copy; 2020 GENIUSAI SOLUTIONS (OPC) PRIVATE LIMITED'
+
+markdown_extensions:
+  - admonition
+
+theme:
+  language: 'en'
+  name: 'material'
+  font:
+    text: 'Ubuntu'
+    code: 'Ubuntu Mono'
+  palette:
+    primary: 'indigo'
+    accent: 'indigo'
+
+
+
+
+

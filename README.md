@@ -1,1 +1,1 @@
-# genius-ai
+# ai-lab
