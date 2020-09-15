@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
+     <loc>https://www.hellorahulk.com/</loc>
+     <lastmod>2020-09-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.hellorahulk.com/annotation/</loc>
+     <lastmod>2020-09-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.hellorahulk.com/mc/</loc>
+     <lastmod>2020-09-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.hellorahulk.com/ner/</loc>
+     <lastmod>2020-09-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.hellorahulk.com/sentiment/</loc>
+     <lastmod>2020-09-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.hellorahulk.com/summary/</loc>
+     <lastmod>2020-09-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.hellorahulk.com/w2v/</loc>
+     <lastmod>2020-09-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+</urlset>
