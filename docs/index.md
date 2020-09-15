@@ -3,8 +3,11 @@
 
 ![GENIUSAI SOLUTIONS](./_static/images/GENIUSAI%20SOLUTIONS.png)
 
-# AI Products
+# Products
 ![alt text](./_static/images/ai-lab.png "AI Lab")
+
+* [AIBookmarks](aibookmarks.html)
+![AIBookmarks](./_static/images/aibookmark.png)
 
 * [Word2Vec Creator](./w2v.md)
 * [Text Summarization](./summary.md)
@@ -12,4 +15,3 @@
 * [Unsupervised Annotator](annotation.md)
 * [Deep NER](ner.md)
 * [Sentiment Analysis](sentiment.md)
-* [AIBookmarks](aibookmarks.html)
